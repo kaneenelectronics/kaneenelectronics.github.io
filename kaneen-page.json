@@ -6,7 +6,6 @@
             "description": "We like to thank you in advance for joining us virtually for our Hindu wedding ceremony",
             "youtubeSteamingID": "https://www.youtube.com/embed/H3CuxSP0gr8"
         }
-        
     ],
     "historyList": [
        {
@@ -17,6 +16,12 @@
         },
         {
             "label": "Stream - 02",
+            "title": "Jenny and Lavan-Wedding-2", 
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque consequat sollicitudin urna, ut ultricies dui porta ac. Cras laoreet tellus feugiat ullamcorper blandit. Proin fringilla aliquet augue vel eleifend. In faucibus finibus ligula. Quisque sem risus, auctor quis urna sit amet, ornare fringilla velit.",
+            "youtubeSteamingID": "https://www.youtube.com/embed/hWDspyxKrvQ"
+        },
+        {
+            "label": "Stream - 03",
             "title": "Wuppertal Kovel",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque consequat sollicitudin urna, ut ultricies dui porta ac. Cras laoreet tellus feugiat ullamcorper blandit. Proin fringilla aliquet augue vel eleifend. In faucibus finibus ligula. Quisque sem risus, auctor quis urna sit amet, ornare fringilla velit.",
             "youtubeSteamingID": "https://www.youtube.com/embed/rd4Ey6alhkg"
