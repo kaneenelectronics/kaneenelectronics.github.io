@@ -2,7 +2,10 @@
     "streamingList": [
         {
             "label": "Stream - 01",
-            "title": "Lavan's wedding on 24.05.2021 from 10:00 to 12:00",
+            "title": "Lavan's wedding",
+            "date": "24.05.2021",
+            "timeFrom": "10:00",
+            "timeTo": "12:00",
             "description": "We like to thank you in advance for joining us virtually for our Hindu wedding ceremony",
             "youtubeSteamingID": "https://www.youtube.com/embed/H3CuxSP0gr8"
         }
@@ -11,26 +14,29 @@
        {
             "label": "Stream - 01",
             "title": "Jenny and Lavan-Wedding-1",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque consequat sollicitudin urna, ut ultricies dui porta ac. Cras laoreet tellus feugiat ullamcorper blandit. Proin fringilla aliquet augue vel eleifend. In faucibus finibus ligula. Quisque sem risus, auctor quis urna sit amet, ornare fringilla velit.",
+            "date": "24.05.2021",
+            "timeFrom": "10:00",
+            "timeTo": "12:00",
+            "description": "We like to thank you in advance for joining us virtually for our Hindu wedding ceremony",
             "youtubeSteamingID": "https://www.youtube.com/embed/pcxiOr0JTK0"
         },
         {
             "label": "Stream - 02",
             "title": "Jenny and Lavan-Wedding-2", 
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque consequat sollicitudin urna, ut ultricies dui porta ac. Cras laoreet tellus feugiat ullamcorper blandit. Proin fringilla aliquet augue vel eleifend. In faucibus finibus ligula. Quisque sem risus, auctor quis urna sit amet, ornare fringilla velit.",
+            "date": "24.05.2021",
+            "timeFrom": "10:00",
+            "timeTo": "12:00",
+            "description": "We like to thank you in advance for joining us virtually for our Hindu wedding ceremony",
             "youtubeSteamingID": "https://www.youtube.com/embed/hWDspyxKrvQ"
         },
         {
             "label": "Stream - 03",
             "title": "Wuppertal Kovel",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque consequat sollicitudin urna, ut ultricies dui porta ac. Cras laoreet tellus feugiat ullamcorper blandit. Proin fringilla aliquet augue vel eleifend. In faucibus finibus ligula. Quisque sem risus, auctor quis urna sit amet, ornare fringilla velit.",
+            "date": "15.05.2021",
+            "timeFrom": "11:00",
+            "timeTo": "03:00",
+            "description": "",
             "youtubeSteamingID": "https://www.youtube.com/embed/rd4Ey6alhkg"
-        },
-        {
-            "label": "Stream - 04",
-            "title": "Wuppertal Kovel",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque consequat sollicitudin urna, ut ultricies dui porta ac. Cras laoreet tellus feugiat ullamcorper blandit. Proin fringilla aliquet augue vel eleifend. In faucibus finibus ligula. Quisque sem risus, auctor quis urna sit amet, ornare fringilla velit.",
-            "youtubeSteamingID": "https://www.youtube.com/embed/rd4Ey6alhkg"
-        }    
+        } 
     ]
 }
