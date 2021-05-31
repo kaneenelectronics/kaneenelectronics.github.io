@@ -7,7 +7,7 @@
             "timeFrom": "10:00",
             "timeTo": "12:00",
             "description": "We like to thank you in advance for joining us virtually for our Hindu wedding ceremony",
-            "youtubeSteamingID": "https://www.youtube.com/embed/H3CuxSP0gr8"
+            "youtubeSteamingID": "H3CuxSP0gr8"
         }
     ],
     "historyList": [
@@ -18,7 +18,7 @@
             "timeFrom": "10:00",
             "timeTo": "12:00",
             "description": "We like to thank you in advance for joining us virtually for our Hindu wedding ceremony",
-            "youtubeSteamingID": "https://www.youtube.com/embed/pcxiOr0JTK0"
+            "youtubeSteamingID": "pcxiOr0JTK0"
         },
         {
             "label": "Stream - 02",
@@ -27,7 +27,7 @@
             "timeFrom": "10:00",
             "timeTo": "12:00",
             "description": "We like to thank you in advance for joining us virtually for our Hindu wedding ceremony",
-            "youtubeSteamingID": "https://www.youtube.com/embed/hWDspyxKrvQ"
+            "youtubeSteamingID": "hWDspyxKrvQ"
         },
         {
             "label": "Stream - 03",
@@ -36,7 +36,7 @@
             "timeFrom": "11:00",
             "timeTo": "03:00",
             "description": "",
-            "youtubeSteamingID": "https://www.youtube.com/embed/rd4Ey6alhkg"
+            "youtubeSteamingID": "rd4Ey6alhkg"
         } 
     ]
 }
