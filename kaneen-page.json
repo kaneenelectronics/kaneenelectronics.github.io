@@ -8,6 +8,15 @@
             "timeTo": "15:00",
             "description": "Wuppertal-Alaingara Pusai",
             "youtubeSteamingID": "gvV0PNnNmxA"
+        },
+        {
+            "label": "Stream - 02",
+            "title": "Wuppertal Kovel",
+            "date": "15.05.2021",
+            "timeFrom": "11:00",
+            "timeTo": "15:00",
+            "description": "Wuppertal-Alaingara Pusai",
+            "youtubeSteamingID": "gvV0PNnNmxA"
         }
     ],
     "historyList": [
