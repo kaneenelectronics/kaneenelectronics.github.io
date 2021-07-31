@@ -1,0 +1,24 @@
+{
+  "person": {
+    "name": "Suganthini Chandiraraja",
+    "birthDate": "21.03.1974",
+    "deathDate": "29.07.2021"
+  },
+  "funeral": {
+    "date": "02.08.2021",
+    "timeFrom": "10.00 am",
+    "timeTo": "12.00 noon",
+    "address": {
+      "name": "Freidenhof Norrenberg",
+      "streetAndNumber": "Theodor-Fontane Straße 52",
+      "cityAndZip": "42289 Wuppertal",
+      "country": "Germany"
+    },
+    "youtubeSteamingID": "o3YwEHvD4Lc"
+  },
+  "contactPerson": {
+    "name": "Ch. Arumugasamy (Husband)",
+    "phone": "+49(0)1775715939"
+  },
+  "otherContacts": [{ "contact": "bla bla" }, { "contact": "bla bla" }, { "contact": "bla bla" }]
+}
