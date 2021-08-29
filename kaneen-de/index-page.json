@@ -7,58 +7,7 @@
       "timeFrom": "10:30",
       "timeTo": "13:00",
       "description": " Srinavthurgadevi tempel wuppertal Germany",
-      "directVideoURL": null,
-      "youtubeSteamingID": "i9GyJlxKwNA"      
-    },
-    {
-      "label": "Stream - 02",
-      "title": "Germany Ruban and Shakana Wedding livetelecadt",
-      "date": "23.08.2021",
-      "timeFrom": "10:30",
-      "timeTo": "13:00",
-      "description": " Srinavthurgadevi tempel wuppertal Germany",
-      "directVideoURL": null,
-      "youtubeSteamingID": "84CRRTT-0G8"      
-    },
-    {
-      "label": "Stream - 03",
-      "title": "Germany Ruban and Shakana Wedding livetelecadt",
-      "date": "23.08.2021",
-      "timeFrom": "10:30",
-      "timeTo": "13:00",
-      "description": " Srinavthurgadevi tempel wuppertal Germany",
-      "directVideoURL": null,
-      "youtubeSteamingID": "JrpgGZH6U_c"      
-    },
-    {
-      "label": "Stream - 04",
-      "title": "Germany Ruban and Shakana Wedding livetelecadt",
-      "date": "23.08.2021",
-      "timeFrom": "10:30",
-      "timeTo": "13:00",
-      "description": " Srinavthurgadevi tempel wuppertal Germany",
-      "directVideoURL": null,
-      "youtubeSteamingID": "ol1KNZ32CfY"      
-    },
-    {
-      "label": "Stream - 05",
-      "title": "Germany Ruban and Shakana Wedding livetelecadt",
-      "date": "23.08.2021",
-      "timeFrom": "10:30",
-      "timeTo": "13:00",
-      "description": " Srinavthurgadevi tempel wuppertal Germany",
-      "directVideoURL": null,
-      "youtubeSteamingID": "l5pSkQZx_Ok"      
-    },
-    {
-      "label": "Stream - 02a",
-      "title": "Germany Gaurav Punj and Tarandeep Kaur Reception",
-      "date": "28.07.2021",
-      "timeFrom": "10:00",
-      "timeTo": "13:00",
-      "description": "Bochum Tempel Livetelecast",
-      "directVideoURL": null,
-      "youtubeSteamingID": "WVpk6iHLPhw"
+      "videoList": [{ "youtubeVideoID": "i9GyJlxKwNA" }, { "youtubeVideoID": "84CRRTT-0G8" }, { "youtubeVideoID": "JrpgGZH6U_c" }, { "youtubeVideoID": "ol1KNZ32CfY" }, { "youtubeVideoID": "l5pSkQZx_Ok" }]
     }
   ],
   "historyList": [
@@ -69,18 +18,7 @@
       "timeFrom": "17:00",
       "timeTo": "19:00",
       "description": " Dortmund Flamingo Restaurant",
-      "directVideoURL": null,
-      "youtubeSteamingID": "y9NDwUmOkZU"      
-    },
-    {
-      "label": "Stream - 02",
-      "title": "Germany Gaurav Punj and Tarandeep Kaur Reception",
-      "date": "28.07.2021",
-      "timeFrom": "10:00",
-      "timeTo": "13:00",
-      "description": "Bochum Tempel Livetelecast",
-      "directVideoURL": null,
-      "youtubeSteamingID": "WVpk6iHLPhw"
+      "videoList": [{ "youtubeVideoID": "y9NDwUmOkZU" }, { "youtubeVideoID": "WVpk6iHLPhw" }]
     },
     {
       "label": "Stream - 03",
@@ -89,8 +27,7 @@
       "timeFrom": "09:00",
       "timeTo": "13:00",
       "description": "Hamm Kovil Livetelecast",
-      "directVideoURL": null,
-      "youtubeSteamingID": "i7u_dlC5fgI"      
+      "videoList": [{ "youtubeVideoID": "i7u_dlC5fgI" }]
     },
     {
       "label": "Stream - 04",
@@ -99,9 +36,8 @@
       "timeFrom": "11:00",
       "timeTo": "15:00",
       "description": "Wuppertal-Alaingara Pusai",
-      "directVideoURL": null,
-      "youtubeSteamingID": "gvV0PNnNmxA"
-    },   
+      "videoList": [{ "youtubeVideoID": "gvV0PNnNmxA" }]
+    },
     {
       "label": "Stream - 05",
       "title": "Anand and Lakshmi Wedding",
@@ -109,18 +45,7 @@
       "timeFrom": "09:00",
       "timeTo": "13:00",
       "description": "Hamm Kovil Wedding",
-      "directVideoURL": null,
-      "youtubeSteamingID": "cKv-swjhd8I"
-    },    
-    {
-      "label": "Stream - 06",
-      "title": "Anand and Lakshmi Wedding",
-      "date": "01.07.2021",
-      "timeFrom": "08:15",
-      "timeTo": "13:00",
-      "description": "Hamm Kovil Wedding",
-      "directVideoURL": null,
-      "youtubeSteamingID": "xqDsCm8X8ow"
+      "videoList": [{ "youtubeVideoID": "cKv-swjhd8I" }, { "youtubeVideoID": "xqDsCm8X8ow" }]
     },
     {
       "label": "Stream - 07",
@@ -129,8 +54,7 @@
       "timeFrom": "10:00",
       "timeTo": "12:00",
       "description": "We like to thank you in advance for joining us virtually for our Hindu wedding ceremony",
-      "directVideoURL": null,
-      "youtubeSteamingID": "hWDspyxKrvQ"
+      "videoList": [{ "youtubeVideoID": "hWDspyxKrvQ" }]
     },
     {
       "label": "Stream - 08",
@@ -139,8 +63,7 @@
       "timeFrom": "11:00",
       "timeTo": "03:00",
       "description": "",
-      "directVideoURL": null,
-      "youtubeSteamingID": "rd4Ey6alhkg"
+      "videoList": [{ "youtubeVideoID": "rd4Ey6alhkg" }]
     }
   ]
 }
