@@ -1,24 +1,24 @@
 {
   "person": {
-    "name": "Late Ms. Suganthini Chandiraraja",
-    "birthDate": "21.03.1974",
-    "deathDate": "29.07.2021"
+    "name": " Mr. JOSEF JEYAKANTHAN",
+    "birthDate": "13.05.1971",
+    "deathDate": "13.11.2021"
   },
   "funeral": {
-    "date": "02.08.2021",
-    "timeFrom": "10.00 am",
-    "timeTo": "12.00 noon",
+    "date": "23.11.2021",
+    "timeFrom": "10.30 am",
+    "timeTo": "12.30 noon",
     "address": {
-      "name": "Freidenhof Norrenberg",
-      "streetAndNumber": "Theodor-Fontane Straße 52",
-      "cityAndZip": "42289 Wuppertal",
+      "name": "Katholischer Friedhof ",
+      "streetAndNumber": "Hochstr. 11",
+      "cityAndZip": "42105 Wuppertal",
       "country": "Germany"
     },
-    "youtubeSteamingID": "PcgsffiAeFc"
+    "youtubeSteamingID": "r"
   },
   "contactPerson": {
-    "name": "Ch. Arumugasamy (Husband)",
-    "phone": "+49(0)1775715939"
+    "name": "AMALA",
+    "phone": "+393883763550"
   },
   "otherContacts": [{ "contact": "bla bla" }, { "contact": "bla bla" }, { "contact": "bla bla" }]
 }
