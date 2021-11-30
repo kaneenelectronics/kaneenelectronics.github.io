@@ -1,24 +1,24 @@
 {
   "person": {
-    "name": " Amarar. JOSEF JEYAKANTHAN",
-    "birthDate": "13.05.1971",
-    "deathDate": "13.11.2021"
+    "name": " Amarar. Francis julian benedict",
+    "birthDate": "07.06.1958",
+    "deathDate": "22.11.2021"
   },
   "funeral": {
-    "date": "23.11.2021",
-    "timeFrom": "10.30 am",
-    "timeTo": "12.30 noon",
+    "date": "02.12.2021",
+    "timeFrom": "12.00 am",
+    "timeTo": "14.00 noon",
     "address": {
-      "name": "Katholischer Friedhof ",
-      "streetAndNumber": "Hochstr. 11",
-      "cityAndZip": "42105 Wuppertal",
+      "name": "Am Parkfriedhof ",
+      "streetAndNumber": "Am Parkfriedhof. 11",
+      "cityAndZip": "45138 Essen",
       "country": "Germany"
     },
-    "youtubeSteamingID": "94BDumpD4mY"
+    "youtubeSteamingID": "Test"
   },
   "contactPerson": {
-    "name": "AMALA",
-    "phone": "+393883763550"
+    "name": "Handy",
+    "phone": "+15775153563"
   },
   "otherContacts": [{ "contact": "bla bla" }, { "contact": "bla bla" }, { "contact": "bla bla" }]
 }
