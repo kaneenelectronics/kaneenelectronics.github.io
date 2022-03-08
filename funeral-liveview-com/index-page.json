@@ -1,24 +1,24 @@
 {
   "person": {
-    "name": " Amarar. Francis julian benedict",
-    "birthDate": "07.06.1958",
-    "deathDate": "22.11.2021"
+    "name": " Amarar. Seenevasagam selvanayagam",
+    "birthDate": "07.10.1947",
+    "deathDate": "04.03.2022"
   },
   "funeral": {
-    "date": "02.12.2021",
-    "timeFrom": "12.00 am",
-    "timeTo": "14.00 noon",
+    "date": "10.03.2022",
+    "timeFrom": "11.00 am",
+    "timeTo": "12.00 noon",
     "address": {
-      "name": "Am Parkfriedhof ",
-      "streetAndNumber": "Am Parkfriedhof. 11",
-      "cityAndZip": "45138 Essen",
+      "name": "Hauptfriedhof ",
+      "streetAndNumber": "Freigrafendamm",
+      "cityAndZip": "44803 Bochum",
       "country": "Germany"
     },
-    "youtubeSteamingID": "m3aU7JtM-Tc"
+    "youtubeSteamingID": "2"
   },
   "contactPerson": {
-    "name": "Handy",
-    "phone": "+15775153563"
+    "name": "Phon",
+    "phone": "004920289014424"
   },
   "otherContacts": [{ "contact": "bla bla" }, { "contact": "bla bla" }, { "contact": "bla bla" }]
 }
