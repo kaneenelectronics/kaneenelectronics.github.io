@@ -1,24 +1,24 @@
 {
   "person": {
-    "name": " Amarar. Seenevasagam selvanayagam",
-    "birthDate": "07.10.1947",
-    "deathDate": "04.03.2022"
+    "name": " Nivetha  Mohanaraj",
+    "birthDate": "08.07.1983",
+    "deathDate": "16.03.2022"
   },
   "funeral": {
-    "date": "10.03.2022 Livetelecast Time16 to17PM ",
-    "timeFrom": "11.00 am",
-    "timeTo": "12.00 noon",
+    "date": "21.03.2022 Livetelecast  ",
+    "timeFrom": "9.30.00 am",
+    "timeTo": "13.30 noon",
     "address": {
-      "name": "Hauptfriedhof ",
-      "streetAndNumber": "Freigrafendamm",
-      "cityAndZip": "44803 Bochum",
+      "name": "Krematorium Niederrhein Willich ",
+      "streetAndNumber": "Kempener Str. 1",
+      "cityAndZip": "47877 Willich",
       "country": "Germany"
     },
-    "youtubeSteamingID": "HVh6N-_PxOo "
+    "youtubeSteamingID": "0 "
   },
   "contactPerson": {
-    "name": "Phon",
-    "phone": "004920289014424"
+    "name": "Pavan",
+    "phone": "00491632328192"
   },
   "otherContacts": [{ "contact": "bla bla" }, { "contact": "bla bla" }, { "contact": "bla bla" }]
 }
