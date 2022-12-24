@@ -1,24 +1,25 @@
 {
   "person": {
-    "name": "Jeyarasa Romesh ",
-    "birthDate": "08.09.1986",
-    "deathDate": "11.04.2022"
+    "name": "Rasamma Mahalingam ",
+    
+    "birthDate": "07.08.1940",
+    "deathDate": "18.12.2022"
   },
   "funeral": {
-    "date": "25.04.2022 Livetelecast  ",
-    "timeFrom": "10.30.00 am",
-    "timeTo": "12.30 noon",
+    "date": "28.12.2022 Livetelecast  ",
+    "timeFrom": "09.00.00 am",
+    "timeTo": "11.00 am",
     "address": {
-      "name": "Am Gottesacker 25 ",
-      "streetAndNumber": "Am Gottesacker 25",
-      "cityAndZip": "44143 Dortmund",
+      "name": "Schützenhalle  ",
+      "streetAndNumber": "Schützenstraße",
+      "cityAndZip": "59872 Meschede",
       "country": "Germany"
     },
-    "youtubeSteamingID": "xODkCpi_jPM"
+    "youtubeSteamingID": "0"
   },
   "contactPerson": {
-    "name": "Thvshan",
-    "phone": "004917684333463"
+    "name": "Thujan",
+    "phone": "004917619890310"
   },
   "otherContacts": [{ "contact": "bla bla" }, { "contact": "bla bla" }, { "contact": "bla bla" }]
 }
