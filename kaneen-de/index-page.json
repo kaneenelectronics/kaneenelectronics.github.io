@@ -41,6 +41,15 @@
     },
     {
       "label": "Stream - 01",
+      "title": "Kugatharan & Shajera wedding livetelecast",
+      "date": "05.11.2022",
+      "timeFrom": "11:30",
+      "timeTo": " 13:30",
+      "description": "Germany Srinavathurgadevi Tempel -hünefeldstr63b-42285Wuppertal ",
+      "videoList": [{ "youtubeVideoID": "1zXKyrml8Qg" }, { "youtubeVideoID": "0" }]
+    },
+    {
+      "label": "Stream - 01",
       "title": "Anejan Jeyam & Anuji Saravanabavan wedding livetelecast",
       "date": "16.07.2022",
       "timeFrom": "10:00",
