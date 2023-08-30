@@ -33,6 +33,15 @@
     },
     {
       "label": "Stream - 01",
+      "title": "Germany Hamm Srikamadchi Theer livetelecast",
+      "date": "18.06.2023",
+      "timeFrom": "9:30",
+      "timeTo": " 12:30",
+      "description": "Germany SRI KAMADCHI AMPAL THEER23",
+      "videoList": [{ "youtubeVideoID": "FEYPnrp-Pg8" }, { "youtubeVideoID": "0" }]
+    },
+    {
+      "label": "Stream - 01",
       "title": "Germany Srinavathurgadevi Tempel Newyear Poya livetelecast",
       "date": "01.01.2023",
       "timeFrom": "12:30",
