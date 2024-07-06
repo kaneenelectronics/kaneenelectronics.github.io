@@ -30,7 +30,16 @@
       "timeTo": " 20:00",
       "description": " Germany Wuppertal Westfalenweg88-42111Wuppertal ",
       "videoList": [{ "youtubeVideoID": "O2f2S820VTo" }, { "youtubeVideoID": "0" }]
-  }, 
+  },
+  {
+    "label": "Stream - 01",
+    "title": "Germany Srinavathurgadevi Wuppertal theer24 livetelecast",
+    "date": "01.06.2024",
+    "timeFrom": "10:00",
+    "timeTo": " 12:00",
+    "description": "Germany Wuppertal Theer24",
+    "videoList": [{ "youtubeVideoID": "8n4ZDo5-pLg" }, { "youtubeVideoID": "eventplayv2.page.link/kaneen" }]
+  },
   {
     "label": "Stream - 01",
     "title": "Germany Srinavathurgadevi Wuppertal Kumpaversam livetelecast",
