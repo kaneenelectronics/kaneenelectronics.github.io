@@ -6,13 +6,13 @@
     "deathDate": "13.01.2025"
   },
   "funeral": {
-    "date": "Trauerfeier 20.01.2025  on Monday livetelecast  ",
+    "date": "Trauerfeier 20.01.2025 on Monday livetelecast",
     "timeFrom": "11.00 pm",
     "timeTo": "13.30 pm",
     "address": {
       "name": "Trauerfeier",
-      "streetAndNumber":Lünener Str. " 104",
-      "cityAndZip": " 59077 Hamm ",
+      "streetAndNumber":Lünener Str.104",
+      "cityAndZip": "59077 Hamm",
       "country": "Germany"
     },
     "youtubeSteamingID": "rtdCQSraO5M"
