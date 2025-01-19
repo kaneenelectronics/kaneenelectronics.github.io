@@ -1,25 +1,25 @@
 {
   "person": {
-    "name": "Mr.Thevathasan Nagalingam Funeral Germany",
+    "name": "Amerar.Nallathamby Elaguppillai Funeral Germany",
     
-    "birthDate": "10.05.1954",
-    "deathDate": "12.04.2024"
+    "birthDate": "21.07.1943",
+    "deathDate": "13.01.2025"
   },
   "funeral": {
-    "date": "Trauerfeier 18.04.2024  on thursday Livetelecast  ",
-    "timeFrom": "13.00 pm",
-    "timeTo": "15.00 pm",
+    "date": "Trauerfeier 20.01.2025  on Monday livetelecast  ",
+    "timeFrom": "11.00 pm",
+    "timeTo": "13.30 pm",
     "address": {
       "name": "Trauerfeier",
-      "streetAndNumber": "Düsseldorferstr. 601",
-      "cityAndZip": "47055 Duisburg ",
+      "streetAndNumber":Lünener Str. " 104",
+      "cityAndZip": " 59077 Hamm ",
       "country": "Germany"
     },
     "youtubeSteamingID": "rtdCQSraO5M"
   },
   "contactPerson": {
-    "name": "Sivathasan",
-    "phone": "004915735310043 "
+    "name": "Thanishkumar",
+    "phone": "004915155591708 "
   },
   "otherContacts": [{ "contact": "" }, { "contact": "" }, { "contact": "" }]
 }
