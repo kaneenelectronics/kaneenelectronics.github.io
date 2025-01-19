@@ -11,8 +11,8 @@
     "timeTo": "13.30 pm",
     "address": {
       "name": "Trauerfeier",
-      "streetAndNumber":Lünener 104",
-      "cityAndZip":59077 Hamm",
+      "streetAndNumber":"Lünener str.104",
+      "cityAndZip": "59077 Hamm",
       "country":"Germany"
     },
     "youtubeSteamingID": "rtdCQSraO5M"
