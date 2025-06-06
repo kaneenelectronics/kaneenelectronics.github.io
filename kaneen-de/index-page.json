@@ -7,7 +7,7 @@
       "timeFrom": "9:30",
       "timeTo": " 12:00",
       "description": "Theer",
-      "videoList": [{ "youtubeVideoID": "v96eHspxA20" }, { "youtubeVideoID": "rtmp://vbox-tv.com:1935/live/live" }]
+      "videoList": [{ "youtubeVideoID": "v96eHspxA20" }, { "youtubeVideoID": "vox-tv.com:1935/live/live" }]
     },
     
     {
