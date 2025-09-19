@@ -1,25 +1,25 @@
 {
   "person": {
-    "name": "Amerar.Kuberalingam Saraswathy Funeral Holand",
+    "name": "Amerar.Ramani Rasathurai Funeral Germany",
     
-    "birthDate": "20.01.1952",
-    "deathDate": "16.05.2025"
+    "birthDate": "09.08.1962",
+    "deathDate": "16.09.2025"
   },
   "funeral": {
-    "date": "Trauerfeier 30.05.2025 on Friday livetelecast",
-    "timeFrom": "10.00 pm",
+    "date": "Trauerfeier am 24.09.2025 on wednesday livetelecast",
+    "timeFrom": "10.30 pm",
     "timeTo": "12.30 pm",
     "address": {
-      "name": "Berkenzaal van crematorium /De Boskamp",
-      "streetAndNumber":"Boskamp 5 ",
-      "cityAndZip": "9405 NN Assen",
-      "country":"NETHERLANDS "
+      "name": "Südfriedhof herne",
+      "streetAndNumber":"Wiescherstr  ",
+      "cityAndZip": "44625 Herne",
+      "country":"Germany "
     },
-    "youtubeSteamingID": "YJD0_-mhkDQ"
+    "youtubeSteamingID": "0"
   },
   "contactPerson": {
-    "name": "Nanthan",
-    "phone": "0049174 9867011"
+    "name": "Mrs.Sethukumar",
+    "phone": "004915753286367"
      },
-  "otherContacts": [{ "contact": "0049174 9867011" }, { "contact": "" }, { "contact": "" }]
+  "otherContacts": [{ "contact": "004915753286367" }, { "contact": "" }, { "contact": "" }]
 }
