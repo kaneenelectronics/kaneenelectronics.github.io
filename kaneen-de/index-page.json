@@ -8,7 +8,7 @@
       "timeFrom": "9:30",
       "timeTo": " 12:00",
       "description": "Theer",
-      "videoList": [{ "youtubeVideoID": "f3QoRkqVLBo" }, { "youtubeVideoID": "https://ap02.iqplay.tv:8082/hls/thailive/index.m3u8" }]
+      "videoList": [{ "youtubeVideoID": "f3QoRkqVLBo" }, { "[bradmax_video url="https://cdn.anystream.uk:8082/thaitv/thailive/playlist.m3u8" autoplay="true"]"}]
     },
     
     {
